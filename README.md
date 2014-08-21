@@ -1,5 +1,9 @@
-pony
-====
+Jumping Pony demo
+=================
+
+This is "Jumping Pony" game, tiny demo project for Lutsk.io conference.
+It demonstrates physics and gravity.
+
 
 "Стрибаючий поні" - демо проект для конференції Lutsk.io
 
